@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7a2534a4.css",
-    "main.js": "/static/js/main.d12b2a40.js",
+    "main.js": "/static/js/main.fa9492cc.js",
     "static/media/overviewLaptop.svg": "/static/media/overviewLaptop.1c88124c17de898f506faec1209e830c.svg",
     "static/media/Frame 55 1.svg": "/static/media/Frame 55 1.38da9102ebcf84d228980b0ed70b0e82.svg",
     "static/media/Frame 54 1.svg": "/static/media/Frame 54 1.059d1582208cd6e21e4441671567eafc.svg",
@@ -17,15 +17,16 @@
     "static/media/Pearmock logo.svg": "/static/media/Pearmock logo.55877c98315169f9e77f850f23941a0c.svg",
     "static/media/7 1.svg": "/static/media/7 1.7675ed927b3eea26947345e8f762d20e.svg",
     "static/media/tata1mg.svg": "/static/media/tata1mg.bc1b3814131cba29bb55b5e78e159092.svg",
+    "static/media/giftBox.svg": "/static/media/giftBox.d502a93d446e64ebbf24b8e7c513c348.svg",
     "static/media/blinkit.svg": "/static/media/blinkit.59b7fa4ac2dc6f84c6ddc6b6ee4c7011.svg",
     "static/media/recentmock.svg": "/static/media/recentmock.2e4a0c6e19e668703d292543e8013c71.svg",
     "static/media/logo.svg": "/static/media/logo.382be6388113453affd0bec26741f581.svg",
     "index.html": "/index.html",
     "main.7a2534a4.css.map": "/static/css/main.7a2534a4.css.map",
-    "main.d12b2a40.js.map": "/static/js/main.d12b2a40.js.map"
+    "main.fa9492cc.js.map": "/static/js/main.fa9492cc.js.map"
   },
   "entrypoints": [
     "static/css/main.7a2534a4.css",
-    "static/js/main.d12b2a40.js"
+    "static/js/main.fa9492cc.js"
   ]
 }
