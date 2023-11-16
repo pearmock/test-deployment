@@ -1,14 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.7a2534a4.css",
-    "main.js": "/static/js/main.fa9492cc.js",
+    "main.js": "/static/js/main.001cdba3.js",
+    "static/media/avatar_1.png": "/static/media/avatar_1.dc9dfd87d36c64bb6708.png",
     "static/media/overviewLaptop.svg": "/static/media/overviewLaptop.1c88124c17de898f506faec1209e830c.svg",
     "static/media/Frame 55 1.svg": "/static/media/Frame 55 1.38da9102ebcf84d228980b0ed70b0e82.svg",
     "static/media/Frame 54 1.svg": "/static/media/Frame 54 1.059d1582208cd6e21e4441671567eafc.svg",
+    "static/media/avatar_2.png": "/static/media/avatar_2.7b59b014165848196cb9.png",
     "static/media/Landing page image foreground.jpeg": "/static/media/Landing page image foreground.6c2dd8b3b4bf99bf961e.jpeg",
     "static/media/limechat.svg": "/static/media/limechat.4694d8526b388412a82a2204628a3077.svg",
     "static/media/growtomation.svg": "/static/media/growtomation.2807c79e773bc2fdc885bf6d57c54665.svg",
     "static/media/accenture.svg": "/static/media/accenture.b83a92ce663360c1eab80d0348535ba6.svg",
+    "static/media/avatar_3.png": "/static/media/avatar_3.80f3649ccc3d2673f819.png",
     "static/media/landing_last.svg": "/static/media/landing_last.ac30d51420aaee64ac1a0cdf63459c61.svg",
     "static/media/submitted.svg": "/static/media/submitted.8e962ea3f734baaeb1af0632fc8bc454.svg",
     "static/media/magicbricks.png": "/static/media/magicbricks.65f59dbc2cc11d4bb7cd.png",
@@ -23,10 +26,10 @@
     "static/media/logo.svg": "/static/media/logo.382be6388113453affd0bec26741f581.svg",
     "index.html": "/index.html",
     "main.7a2534a4.css.map": "/static/css/main.7a2534a4.css.map",
-    "main.fa9492cc.js.map": "/static/js/main.fa9492cc.js.map"
+    "main.001cdba3.js.map": "/static/js/main.001cdba3.js.map"
   },
   "entrypoints": [
     "static/css/main.7a2534a4.css",
-    "static/js/main.fa9492cc.js"
+    "static/js/main.001cdba3.js"
   ]
 }
