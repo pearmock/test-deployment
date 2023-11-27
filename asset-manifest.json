@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.74885d02.css",
-    "main.js": "/static/js/main.1563eab3.js",
+    "main.js": "/static/js/main.4d259ab9.js",
     "static/media/avatar_1.png": "/static/media/avatar_1.dc9dfd87d36c64bb6708.png",
     "static/media/overviewLaptop.svg": "/static/media/overviewLaptop.1c88124c17de898f506faec1209e830c.svg",
     "static/media/Frame 55 1.svg": "/static/media/Frame 55 1.38da9102ebcf84d228980b0ed70b0e82.svg",
@@ -41,6 +41,6 @@
   },
   "entrypoints": [
     "static/css/main.74885d02.css",
-    "static/js/main.1563eab3.js"
+    "static/js/main.4d259ab9.js"
   ]
 }
